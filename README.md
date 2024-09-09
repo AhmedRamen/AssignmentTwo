@@ -1,5 +1,5 @@
 # Assignment Two
-Imagine having made 95kUSD as your gross income, although as for your tax return, you have to pay 4% of your money for your estate tax, as well as 2% of your money for the county tax. This is the assignment.
+Imagine having made 95k USD as your gross income, although as for your tax return, you have to pay 4% of your money for your estate tax, as well as 2% of your money for the county tax. This is the assignment.
 
 ## How to run it?
 ### Using Visual Studio 2022 and Windows.
