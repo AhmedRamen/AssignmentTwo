@@ -1,5 +1,5 @@
-# Assignment One
-This assignment is about swapping two integers so they both match the variable names.
+# Assignment Two
+Imagine having made 95kUSD as your gross income, although as for your tax return, you have to pay 4% of your money for your estate tax, as well as 2% of your money for the county tax. This is the assignment.
 
 ## How to run it?
 ### Using Visual Studio 2022 and Windows.
@@ -22,19 +22,8 @@ This assignment is about swapping two integers so they both match the variable n
 6. If all done correctly, it should print this in the output:
 
 ```
-Before swap:
-The two variable: 1
-The one variable: 2
-
-Normal (Before swap):
-The one variable: 2
-The two variable: 1
-
-After swap:
-The two variable: 2
-The one variable: 1
-
-Normal (After swap):
-The one variable: 1
-The two variable: 2
+Gross Income: 95000
+Estate Tax: 0.4%
+County State Tax: 0.2%
+Total Income: 57000
 ```
